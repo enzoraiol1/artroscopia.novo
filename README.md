@@ -7,4 +7,4 @@
 
 `src/` guarda as fontes: `core.js` (anatomia procedural, cinemática), `app.js` (render, modos, controle), `template.html` e `build.py` (junta tudo em `index.html`; rodar de dentro de `src/` e mover o resultado para a raiz).
 
-Esta versão usa anatomia procedural. A anatomia real do espécime oks001 (Open Knee(s)) continua em `03-controle-remoto/` no ramo principal.
+Esta versão usa anatomia procedural. A anatomia real do espécime oks001 (Open Knee(s)) continua no repositório privado `artroscopia`, pasta `03-controle-remoto/`.
